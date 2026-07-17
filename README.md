@@ -1,27 +1,41 @@
-# 💫 About Me:
+# Hi, I'm Joseph Mponda ðŸ‘‹
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kat.kay2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-katoya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Kelvinkatoya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kelvinkaykatoya@gmail.com) 
+I'm an engineering student who builds automation and embedded systems, then
+applies them to problems that matter â€” assistive technology, agritech, and
+fintech. My core skill is turning hardware + software into systems that
+solve real problems; the domains change, the engineering approach doesn't.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JosephMponda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JosephMponda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephMponda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## ðŸ”­ Currently working on
+- **Smart-cane** â€” an assistive device using embedded sensors, applying my
+  automation background to accessibility
+- <!-- e.g. escom-engineer-portfolio â€” my personal engineering portfolio -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JosephMponda&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## ðŸŒ± Currently exploring
+- Embedded systems & automation *(core focus)*
+- Applications in assistive tech, agritech, and fintech
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## ðŸš€ Featured Projects
+| Project | What it does | Domain |
+|---|---|---|
+| [Smart-cane](https://github.com/JosephMponda/Smart-cane) | Assistive device built on embedded sensors | Assistive tech |
+| [ESP32 WiFi Car](https://github.com/JosephMponda/ESP-32-WIFI-SERVER-BASED-CAR-) | ESP32-based RC car, real-time control over a web interface, no app needed | Embedded systems / automation |
+| [netanomaly-](https://github.com/JosephMponda/netanomaly-) | <!-- TODO: 1-line description --> | Automation |
+| [escom-engineer-portfolio](https://github.com/JosephMponda/escom-engineer-portfolio) | My engineering portfolio | â€” |
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JosephMponda&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- TODO: as I build agritech/fintech projects, add them here â€” that's what turns "exploring next" into proof -->
 
----
-[![](https://visitcount.itsvg.in/api?id=JosephMponda&icon=0&color=1)](https://visitcount.itsvg.in)
+## ðŸ› ï¸ Tech Stack
+<!--  badges for languages/tools you actually use, e.g.: -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/JosephMponda) 
+## ðŸŒ Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mponda-5217b32a5)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mpondajoseph84@gmail.com)
+<!-- [![X](https://img.shields.io/badge/-X-black?style=flat&logo=x&logoColor=white)](https://x.com/your-handle) -->
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ðŸ“Š GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephMponda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephMponda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
